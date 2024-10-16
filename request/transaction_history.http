@@ -1,0 +1,7 @@
+
+###
+GET http://localhost:5100/api/v1/exness/transactions/latest?account=&status=&payment=
+
+###
+GET http://localhost:5100/api/v1/exness/transactions
+
